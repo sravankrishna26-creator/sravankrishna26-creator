@@ -24,12 +24,14 @@ Started from zero in May 2026. Learning by doing — not by watching.
 ## Projects
 
 - [Personal Landing Page](https://github.com/sravankrishna26-creator/project-1)
+- [Skill Cards — Flexbox](https://github.com/sravankrishna26-creator/project-2)
 
 ---
 
 ## My Journey
 
 - Project 1 — Personal landing page with HTML & CSS
+- Project 2 — Skill cards with CSS Flexbox and hover animations
 
 ---
 
