@@ -1,16 +1,36 @@
-## Hi there 👋
+# Sravan Krishna
 
-<!--
-**sravankrishna26-creator/sravankrishna26-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full Stack Developer & AI/ML Engineer  
+Self-taught | Thiruvananthapuram, Kerala, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I'm a self-taught developer building real projects every single day.
+Started from zero in May 2026. Learning by doing — not by watching.
+
+---
+
+## Currently Learning
+
+- HTML & CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+---
+
+## Projects
+
+- [Personal Landing Page](https://github.com/sravankrishna26-creator/project-1)
+
+---
+
+## My Journey
+
+- Project 1 — Personal landing page with HTML & CSS
+
+---
+
+*Building something every day.*
